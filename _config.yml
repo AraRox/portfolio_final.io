@@ -42,7 +42,7 @@ author:
 
   impactstory      :
 
-  orcid            : "0009-0001-8670-8012"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-8670-8012"
 
   semantic         :
 
@@ -63,7 +63,7 @@ author:
 
   dribbble         :
 
-  github           : "AraRox"
+  github           : 
 
   kaggle           :
 
